@@ -1,0 +1,51 @@
+{
+    "STATUS": "00",
+    "CNT": 9,
+    "LIST": [
+        {
+            "CATEGORY_CDNM": "대형마트",
+            "CATEGORY_CD": "MT1",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "편의점",
+            "CATEGORY_CD": "CS2",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "유치원",
+            "CATEGORY_CD": "PS3",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "학원",
+            "CATEGORY_CD": "AC5",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "주차장",
+            "CATEGORY_CD": "PK6",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "주유소",
+            "CATEGORY_CD": "OL7",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "숙박",
+            "CATEGORY_CD": "AD5",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "음식점",
+            "CATEGORY_CD": "FD6",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        },
+        {
+            "CATEGORY_CDNM": "카페",
+            "CATEGORY_CD": "CE7",
+            "FILE_URL": "/cmmnatchmnfl/fileimgview.do?file_seq=234&thum_yn=y"
+        }
+    ]
+}
