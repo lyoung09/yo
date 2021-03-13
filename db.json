@@ -1,10 +1,5 @@
 {
-    "STATUS": "00",
-    "CNT": 9,
-    "LIST": [
-        {
             "CATEGORY_CDNM": "대형마트",
             "CATEGORY_CD": "MT1"
-        }
-    ]
+  
 }
